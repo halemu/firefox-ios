@@ -182,7 +182,7 @@
 "Onboarding.Sync.Skip.Action.v114" = "Saltar";
 
 /* String used to describes the title of what Firefox is on the Sync onboarding page for current version in our Onboarding screens. */
-"Onboarding.Sync.Title.v120" = "Resta cryptate dum tu passa inter tu apparatos";
+"Onboarding.Sync.Title.v120" = "Resta cryptate quando tu passa inter apparatos";
 
 /* Title for the confirmation button for Terms of Service agreement, in the Terms of Service screen. */
 "Onboarding.TermsOfService.AgreementButtonTitle.v135" = "Accordar se e continuar";
